@@ -1,17 +1,20 @@
 # Mrchungdung
 
-<!-- Replace the text in brackets with your info. Keep the brackets while editing if you prefer, or remove them when done. -->
-
-![Header image](./header.png)  <!-- OPTIONAL: replace header.png or remove this line if you don't want an image -->
-
-Short summary
+<!-- Replace the text in brackets with your info. Keep the brackets while editing if you prefer, or remove them when done -->
 -------------
 Homelab Operations • Linux Hardening • Network Security • OS Deployment • Infrastructure Maintenance
 
-Badges (optional)
------------------
-- GitHub: [https://github.com/Mrchungdung](https://github.com/Mrchungduung)
-  ![Followers](https://img.shields.io/github/followers/Mrchungdung?style=flat-square&logo=github&color=181717&label=Followers)
+<tr>
+<td><b>Tools</b></td>
+<td>
+<img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Ghidra-3F51B5?style=flat-square" />
+<img src="https://img.shields.io/badge/radare2-111111?style=flat-square" />
+<img src="https://img.shields.io/badge/Debugging-x64dbg-00ADEF?style=flat-square" />
+</td>
+</tr>
+</table>
 
 About
 -----
