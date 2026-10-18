@@ -3,7 +3,6 @@
 <!-- Replace the text in brackets with your info. Keep the brackets while editing if you prefer, or remove them when done -->
 -------------
 Homelab Operations • Linux Hardening • Network Security • OS Deployment • Infrastructure Maintenance
-
 <tr>
 <td><b>Tools</b></td>
 <td>
@@ -15,6 +14,10 @@ Homelab Operations • Linux Hardening • Network Security • OS Deployment �
 </td>
 </tr>
 </table>
+
+</div>
+
+<br/>
 
 About
 -----
