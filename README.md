@@ -1,78 +1,47 @@
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title contenteditable="false">My Homepage — editable</title>
-  <link rel="stylesheet" href="styles.css" />
-</head>
-<body>
-  <div class="container">
-    <header class="hero">
-      <div class="hero-left">
-        <h1 id="name" class="editable" data-key="name" data-default="Your Name" contenteditable="true">Your Name</h1>
-        <p id="subtitle" class="editable muted" data-key="subtitle" data-default="One-sentence summary about you — edit me!" contenteditable="true">One-sentence summary about you — edit me!</p>
-        <div class="controls">
-          <button id="saveBtn">Save</button>
-          <button id="resetBtn">Reset</button>
-          <button id="exportBtn">Export JSON</button>
-          <button id="importToggleBtn">Import JSON</button>
-        </div>
-      </div>
-      <div class="hero-right">
-        <img src="https://placehold.co/160x160?text=Avatar" alt="avatar" class="avatar" />
-      </div>
-    </header>
+# [Mrchungdung]
 
-    <main>
-      <section>
-        <h2>About</h2>
-        <div id="bio" class="editable" data-key="bio" data-default="Write a short bio about yourself here. What do you do? What are you passionate about?" contenteditable="true">
-          Write a short bio about yourself here. What do you do? What are you passionate about?
-        </div>
-      </section>
+<!-- Replace the text in brackets with your info. Keep the brackets while editing if you prefer, or remove them when done. -->
 
-      <section>
-        <h2>Skills</h2>
-        <ul id="skills" class="editable-list" data-key="skills" data-default='["HTML","CSS","JavaScript"]'>
-          <li contenteditable="true">HTML</li>
-          <li contenteditable="true">CSS</li>
-          <li contenteditable="true">JavaScript</li>
-        </ul>
-        <button id="addSkillBtn" class="small">+ Add skill</button>
-      </section>
+![Header image](./header.png)  <!-- OPTIONAL: replace header.png or remove this line if you don't want an image -->
 
-      <section>
-        <h2>Projects</h2>
-        <div id="projects" class="editable" data-key="projects" data-default='<ul><li contenteditable="true">Project A — short description</li><li contenteditable="true">Project B — short description</li></ul>' contenteditable="true">
-          <ul>
-            <li contenteditable="true">Project A — short description</li>
-            <li contenteditable="true">Project B — short description</li>
-          </ul>
-        </div>
-      </section>
+Short summary
+-------------
+[ONE-LINE SUMMARY ABOUT YOU — e.g. "Systems Admin · Cybersecurity researcher · Random stuff"]
 
-      <section>
-        <h2>Contact</h2>
-        <div id="contact" class="editable" data-key="contact" data-default="Email: you@example.com — Twitter: @you" contenteditable="true">
-          Email: you@example.com — Twitter: @you
-        </div>
-      </section>
-    </main>
+Badges (optional)
+-----------------
+- GitHub: [https://github.com/YOUR_USERNAME](https://github.com/Mrchungduung)
+- Followers badge (edit username in URL below if needed):
+  ![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=flat-square&logo=github&color=181717&label=Followers)
 
-    <footer>
-      <small>&copy; <span id="year"></span> <span id="footerName" data-key="footerName" data-default="Your Name" contenteditable="true">Your Name</span></small>
-    </footer>
+About
+-----
+Replace the paragraph below with your bio. Keep it short (2–4 sentences).
 
-    <div id="importArea" class="import-area hidden">
-      <textarea id="importTextarea" placeholder='Paste exported JSON here'></textarea>
-      <div class="import-controls">
-        <button id="importBtn">Import</button>
-        <button id="cancelImportBtn">Cancel</button>
-      </div>
-    </div>
-  </div>
+[ABOUT: e.g. "I'm cybersecurity researcher and system admin who specialises in "]
 
-  <script src="script.js"></script>
-</body>
-</html>
+Focus areas
+-----------
+- [LIST your focus areas — e.g. Secure OS design, fuzzing, reverse engineering, vulnerability research]
+- [Replace or add bullets]
+
+Current projects
+----------------
+- **zinc** — [SHORT: one-sentence goal; e.g. "A hobby OS that prototypes secure-by-default primitives. Replace with your own project details."]
+- [Add other projects here or link to folders]
+
+How to contact me
+-----------------
+- GitHub: https://github.com/YOUR_USERNAME
+- Email: [your-email@example.com]  <!-- Replace with contact info or remove if you prefer private -->
+- Twitter/Matrix/Other: [@yourhandle]  <!-- Remove if not used -->
+
+Notes for maintainers / edit markers
+-----------------------------------
+- Everything enclosed in [BRACKETS] should be replaced with your real data.
+- Remove the bracketed instructions when you finalize the README.
+- If you want me to fill in your name/email/handles, paste them here and I’ll produce a final README and commit it.
+
+LICENSE (optional)
+------------------
+Add a LICENSE file if you want — suggested: MIT or Apache-2.0. If you want, I can add one for you.
