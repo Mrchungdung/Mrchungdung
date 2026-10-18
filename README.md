@@ -31,12 +31,6 @@ How to contact me
 -----------------
 - GitHub: https://github.com/Mrchungdung
 
-Notes for maintainers / edit markers
------------------------------------
-- Everything enclosed in [BRACKETS] should be replaced with your real data.
-- Remove the bracketed instructions when you finalize the README.
-- If you want me to fill in your name/email/handles, paste them here and I’ll produce a final README and commit it.
-
-LICENSE (optional)
+LICENSES
 ------------------
-Add a LICENSE file if you want — suggested: MIT or Apache-2.0. If you want, I can add one for you.
+GNU GPLv3
