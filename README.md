@@ -8,9 +8,6 @@ Linux Hardening • Network Security • OS Exploration • Literally Whatever I
 <td>
 <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Ghidra-3F51B5?style=flat-square" />
-<img src="https://img.shields.io/badge/radare2-111111?style=flat-square" />
-<img src="https://img.shields.io/badge/Debugging-x64dbg-00ADEF?style=flat-square" />
 </td>
 </tr>
 </table>
