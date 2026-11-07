@@ -1,8 +1,8 @@
 # Mrchungdung
 
-<!-- Replace the text in brackets with your info. Keep the brackets while editing if you prefer, or remove them when done -->
+<!-- Replace the text in brackets with  info. Keep the brackets while editing, or remove them when done -->
 -------------
-Homelab Operations • Linux Hardening • Network Security • OS Deployment • Infrastructure Maintenance
+Linux Hardening • Network Security • OS Exploration • Literally Whatever I Think Of
 <tr>
 <td><b>Tools</b></td>
 <td>
@@ -21,22 +21,18 @@ Homelab Operations • Linux Hardening • Network Security • OS Deployment �
 
 About
 -----
-Homelab operator & Linux explorer. Testing every distro I can get my hands on.
+GNU Software & Linux. Testing every type of operating system I can get my hands on.
 
 Focus areas
 -----------
-• Homelab Operations | Self-hosting, private clouds, secure network architecture.
-• Linux Exploration | Distro hopping, kernel tweaks, testing hardened environments.
-• Practical Cybersecurity | System hardening, firewall management, credential security.
+• GNU Hurd/Mach Microkernel
+• GoLang
 
 Current projects
 ----------------
-- **Jarvis** — My first project, im trying to replicate Jarvis from Iron Man as accurately as i can locally with complete admin access, learning from your behaviour and executing system level commands.
+- **OpenBooth** — Open source photobooth application made simple to replace paid options
 
-How to contact me
------------------
-- GitHub: https://github.com/Mrchungdung
-
-LICENSES
-------------------
-GNU GPLv3
+ Why?
+ ----
+ • Everything i make starts with one question "What is missing/needs fixing on my devices?"
+ 
